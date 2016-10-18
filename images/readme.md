@@ -1,1 +1,2 @@
-local Intelij IDEA2
+local Intelij IDEA
+remote github
