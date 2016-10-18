@@ -1,1 +1,1 @@
-local Intelij IDEA
+local Intelij IDEA2
